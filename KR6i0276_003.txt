@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:14:49.182356
+#+DATE: 2015-08-30 20:14:54.589790
 #+TITLE: 月燈三昧經
 #+PROPERTY: CBETA_ID T15n0639
 #+PROPERTY: ID KR6i0276
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 639
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0276_T_003-0562a> ¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《月燈三昧經》卷第三¶
+《月燈三昧經》卷第三¶
 ¶
 高齊天竺三藏那連提耶舍譯¶
 
@@ -678,7 +677,7 @@
 　一切相好以映飾，¶
 　出生福果甚清淨，
 　光明顯照於十方。¶
-　鼛、𪔵、䗍、鼓、箜篌音、
+　鼛、[鼓/賁]、[彖/虫]、鼓、箜篌音、
 　銅、鈸、笙、簫美妙聲，¶
 　如是諸音相和合，
 　百分不及佛一音；¶
@@ -887,7 +886,7 @@
 　一時共發甚可愛，
 　於佛少音非為譬；¶
 　大鼓、金鉦及諸鼙、
-　䗍貝、簫、筑、琴、箜篌，¶
+　[彖/虫]貝、簫、筑、琴、箜篌，¶
 　千種音樂俱時作，
 　於佛少音非為譬；¶
 　諸天千種美音樂、

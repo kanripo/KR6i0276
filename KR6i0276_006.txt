@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:14:49.307936
+#+DATE: 2015-08-30 20:14:54.722657
 #+TITLE: 月燈三昧經
 #+PROPERTY: CBETA_ID T15n0639
 #+PROPERTY: ID KR6i0276
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 639
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0276_T_006-0583b> 
 #+PROPERTY: JUAN 6
 ¶
-
- 《月燈三昧經》卷第六¶
+《月燈三昧經》卷第六¶
 ¶
 高齊天竺三藏那連提耶舍譯¶
 
@@ -848,7 +847,7 @@
 　如來徒眾廣無量，¶
 　粳糧自然從地出，
 　諸天悉來而給侍，¶
-　袈裟法服從樹生，
+　袈娑法服從樹生，
 　無垢清淨甚可愛，¶
 　割截縫治依量法，
 　彼佛功德威力故。¶
