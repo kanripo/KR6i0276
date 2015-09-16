@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:14:49.349593
+#+DATE: 2015-08-30 20:14:50.653348
 #+TITLE: 月燈三昧經
 #+PROPERTY: CBETA_ID T15n0639
 #+PROPERTY: ID KR6i0276
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 639
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6i0276_T_007-0591a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 《月燈三昧經》卷第七¶
+《月燈三昧經》卷第七¶
 ¶
 高齊天竺三藏那連提耶舍譯¶
 
@@ -370,7 +369,7 @@
 　彼不染女色，
 　亦不隨順彼，¶
 　當離於此想，
-　女想甚可䛩(烏故反)。¶
+　女想甚可[言*亞](烏故反)。¶
 　佛土常不空，
 　勇猛之所住，¶
 　惡魔波旬等，

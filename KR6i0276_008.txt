@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:14:49.395976
+#+DATE: 2015-08-30 20:14:50.705893
 #+TITLE: 月燈三昧經
 #+PROPERTY: CBETA_ID T15n0639
 #+PROPERTY: ID KR6i0276
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 639
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6i0276_T_008-0599c> ¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 《月燈三昧經》卷第八¶
+《月燈三昧經》卷第八¶
 ¶
 高齊天竺三藏那連提耶舍譯¶
 

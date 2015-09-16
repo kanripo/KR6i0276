@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:14:49.430692
+#+DATE: 2015-08-30 20:14:50.743434
 #+TITLE: 月燈三昧經
 #+PROPERTY: CBETA_ID T15n0639
 #+PROPERTY: ID KR6i0276
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 639
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6i0276_T_009-0605c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《月燈三昧經》卷第九¶
+《月燈三昧經》卷第九¶
 ¶
 高齊天竺三藏那連提耶舍譯¶
 
@@ -181,9 +180,9 @@
 　諸末香水而洗之，
 　復用眾香塗其身，¶
 　以蘇油衣纏彼體，
-　置於此身香𧂐上。¶
+　置於此身香[卄/積]上。¶
 　古昔牟尼尊妙軀，
-　舍利三斛有六㪷，¶
+　舍利三斛有六[豆*斗]，¶
 　彼王造作勝妙塔，
 　種種供養恒禮拜。¶
 　塗末、香鬘、百種讚，

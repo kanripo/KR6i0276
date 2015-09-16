@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:14:49.133895
+#+DATE: 2015-08-30 20:14:50.450172
 #+TITLE: 月燈三昧經
 #+PROPERTY: CBETA_ID T15n0639
 #+PROPERTY: ID KR6i0276
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 639
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6i0276_T_002-0553c> ¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《月燈三昧經》卷第二¶
+《月燈三昧經》卷第二¶
 ¶
 高齊天竺三藏那連提耶舍譯¶
 
@@ -185,7 +184,7 @@
 　其佛壽命四萬歲，
 　國土世界甚嚴淨。¶
 　時閻浮提有二王，
-　號曰大力、堅固力，¶
+　號曰大力、竪固力，¶
 　是等二王所居土，
 　一一各領半閻浮。¶
 　佛出大力王國中，
@@ -984,7 +983,7 @@
 　合十指爪掌，
 　稱佛為大悲。¶
 　或散諸瓔珞、
-　金鎖、𤦲臂印、¶
+　金鎖、[(王*巨)/木]臂印、¶
 　或散師子條，
 　發大菩提心。¶
 　女人奉金鬘、
@@ -1196,7 +1195,7 @@
 　憶念迦葉佛，
 　厭惡此受生：¶
 　『我昔懷疑惑，
-　壞小𦭽蘭葉，¶
+　壞小[卄/伊]蘭葉，¶
 　是故生難處，
 　不能知佛法。¶
 　深厭此蛇身，
