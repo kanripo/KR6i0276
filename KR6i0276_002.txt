@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 639
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0276_T_002-0553c> ¶¶¶
 #+PROPERTY: JUAN 2
 ¶
@@ -887,7 +887,7 @@
 如來爾時及比丘僧默然許受¶
 月光童子明日請食，為護彼故。
 
-爾時月光童¶
+尒時月光童¶
 子既蒙如來許受供已，歡喜踊躍，深自慶¶
 幸，即從坐起，偏袒右臂，頂禮佛足，右遶三匝¶
 辭退而去。¶
